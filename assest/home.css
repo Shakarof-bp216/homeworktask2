@@ -2,9 +2,9 @@
 .navbar {
     height: 80px;
     width: 100%;
-    position: fixed;
     display: flex;
     justify-content: center;
+    position: absolute;
     align-items: center;
     font-family: sans-serif;
     color: white;
